@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544781791 source:f:\codeblocks\czxt\ljp_test1_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

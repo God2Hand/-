@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1547036505 source:f:\codeblocks\czxt\simpleoperationsystem\main.cpp
+	"stdafx.h"
+
+1547014478 f:\codeblocks\czxt\simpleoperationsystem\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1547060383 source:f:\codeblocks\czxt\simpleoperationsystem\filesystem.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<vector>
+	<string>
+
+1547052858 source:f:\codeblocks\czxt\simpleoperationsystem\runtimesystem.cpp
+	"stdafx.h"
+
